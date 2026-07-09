@@ -1,0 +1,132 @@
+,,,,,,,
+Threads,Thread Aff.,OMP_Places,Schedule,Time (t),Gflops,SpeedUp,Efficiency
+1,TRUE,Cores,Dynamic,14.107154,0.291297,1.0000,100.00%
+2,TRUE,Cores,Dynamic,7.06614,0.581559,1.9964,99.82%
+4,TRUE,Cores,Dynamic,3.921919,1.047797,3.5970,89.93%
+8,TRUE,Cores,Dynamic,2.034085,2.020257,6.9354,86.69%
+10,TRUE,Cores,Dynamic,1.628087,2.524053,8.6649,86.65%
+16,TRUE,Cores,Dynamic,1.018222,4.035835,13.8547,86.59%
+20,TRUE,Cores,Dynamic,0.814611,5.044588,17.3177,86.59%
+32,TRUE,Cores,Dynamic,0.544991,7.54026,25.8851,80.89%
+40,TRUE,Cores,Dynamic,0.447439,9.184208,31.5287,78.82%
+,,,,,,,
+Threads,Thread Aff.,OMP_Places,Schedule,Time (t),Gflops,SpeedUp,Efficiency
+1,Close,Cores,Dynamic,14.107736,0.291285,1.0000,100.00%
+2,Close,Cores,Dynamic,7.118257,0.577301,1.9819,99.10%
+4,Close,Cores,Dynamic,3.922301,1.047695,3.5968,89.92%
+8,Close,Cores,Dynamic,2.034752,2.019595,6.9334,86.67%
+10,Close,Cores,Dynamic,1.62811,2.524017,8.6651,86.65%
+16,Close,Cores,Dynamic,1.018179,4.036007,13.8559,86.60%
+20,Close,Cores,Dynamic,0.814505,5.045241,17.3206,86.60%
+32,Close,Cores,Dynamic,0.54504,7.539592,25.8839,80.89%
+40,Close,Cores,Dynamic,0.447145,9.190263,31.5507,78.88%
+,,,,,,,
+Threads,Thread Aff.,OMP_Places,Schedule,Time (t),Gflops,SpeedUp,Efficiency
+1,Spread,Cores,Dynamic,14.108593,0.291268,1.0000,100.00%
+2,Spread,Cores,Dynamic,7.057227,0.582293,1.9992,99.96%
+4,Spread,Cores,Dynamic,3.531998,1.163471,3.9945,99.86%
+8,Spread,Cores,Dynamic,1.969035,2.087,7.1652,89.57%
+10,Spread,Cores,Dynamic,1.627933,2.524292,8.6666,86.67%
+16,Spread,Cores,Dynamic,1.018111,4.036277,13.8576,86.61%
+20,Spread,Cores,Dynamic,0.814859,5.043054,17.3142,86.57%
+32,Spread,Cores,Dynamic,0.544851,7.5422,25.8944,80.92%
+40,Spread,Cores,Dynamic,0.447209,9.188949,31.5481,78.87%
+,,,,,,,
+Threads,Thread Aff.,OMP_Places,Schedule,Time (t),Gflops,SpeedUp,Efficiency
+1,Master,Cores,Dynamic,14.111667,0.291204,1.0000,100.00%
+2,Master,Cores,Dynamic,7.630903,0.538518,1.8493,92.46%
+4,Master,Cores,Dynamic,7.688939,0.534453,1.8353,45.88%
+8,Master,Cores,Dynamic,7.720715,0.532253,1.8278,22.85%
+10,Master,Cores,Dynamic,7.728505,0.531717,1.8259,18.26%
+16,Master,Cores,Dynamic,7.760121,0.529551,1.8185,11.37%
+20,Master,Cores,Dynamic,7.761647,0.529446,1.8181,9.09%
+32,Master,Cores,Dynamic,7.800539,0.526807,1.8091,5.65%
+40,Master,Cores,Dynamic,7.815384,0.525806,1.8056,4.51%
+,,,,,,,
+Threads,Thread Aff.,OMP_Places,Schedule,Time (t),Gflops,SpeedUp,Efficiency
+1,TRUE,Threads,Dynamic,14.110919,0.29122,1.000,100.00%
+2,TRUE,Threads,Dynamic,7.628311,0.538701,1.850,92.49%
+4,TRUE,Threads,Dynamic,3.879263,1.059319,3.638,90.94%
+8,TRUE,Threads,Dynamic,2.155542,1.906424,6.546,81.83%
+10,TRUE,Threads,Dynamic,1.777115,2.312387,7.940,79.40%
+16,TRUE,Threads,Dynamic,1.112805,3.692809,12.680,79.25%
+20,TRUE,Threads,Dynamic,0.891136,4.611389,15.835,79.17%
+32,TRUE,Threads,Dynamic,0.557984,7.36468,25.289,79.03%
+40,TRUE,Threads,Dynamic,0.446827,9.196789,31.580,78.95%
+,,,,,,,
+Threads,Thread Aff.,OMP_Places,Schedule,Time (t),Gflops,SpeedUp,Efficiency
+1,Close,Threads,Dynamic,14.106623,0.291308,1.000,100.00%
+2,Close,Threads,Dynamic,7.629963,0.538584,1.849,92.44%
+4,Close,Threads,Dynamic,3.878036,1.059654,3.638,90.94%
+8,Close,Threads,Dynamic,2.155531,1.906433,6.544,81.80%
+10,Close,Threads,Dynamic,1.777566,2.311799,7.936,79.36%
+16,Close,Threads,Dynamic,1.113966,3.688962,12.663,79.15%
+20,Close,Threads,Dynamic,0.890573,4.614304,15.840,79.20%
+32,Close,Threads,Dynamic,0.557958,7.365029,25.283,79.01%
+40,Close,Threads,Dynamic,0.44735,9.186039,31.534,78.83%
+,,,,,,,
+Threads,Thread Aff.,OMP_Places,Schedule,Time (t),Gflops,SpeedUp,Efficiency
+1,Spread,Threads,Dynamic,14.107623,0.291288,1.000,100.00%
+2,Spread,Threads,Dynamic,7.057974,0.582232,1.999,99.94%
+4,Spread,Threads,Dynamic,3.54905,1.157881,3.975,99.38%
+8,Spread,Threads,Dynamic,1.968627,2.087433,7.166,89.58%
+10,Spread,Threads,Dynamic,1.627608,2.524796,8.668,86.68%
+16,Spread,Threads,Dynamic,1.017808,4.037477,13.861,86.63%
+20,Spread,Threads,Dynamic,0.814587,5.044739,17.319,86.59%
+32,Spread,Threads,Dynamic,0.544898,7.54155,25.890,80.91%
+40,Spread,Threads,Dynamic,0.446877,9.195766,31.569,78.92%
+,,,,,,,
+Threads,Thread Aff.,OMP_Places,Schedule,Time (t),Gflops,SpeedUp,Efficiency
+1,Master,Threads,Dynamic,14.10754,0.291289,1.000,100.00%
+2,Master,Threads,Dynamic,14.12831,0.290861,0.999,49.93%
+4,Master,Threads,Dynamic,14.13366,0.290751,0.998,24.95%
+8,Master,Threads,Dynamic,14.154383,0.290325,0.997,12.46%
+10,Master,Threads,Dynamic,14.16378,0.290133,0.996,9.96%
+16,Master,Threads,Dynamic,14.173409,0.289936,0.995,6.22%
+20,Master,Threads,Dynamic,14.190682,0.289583,0.994,4.97%
+32,Master,Threads,Dynamic,14.246631,0.288445,0.990,3.09%
+40,Master,Threads,Dynamic,14.26702,0.288033,0.989,2.47%
+,,,,,,,
+Threads,Thread Aff.,OMP_Places,Schedule,Time (t),Gflops,SpeedUp,Efficiency
+1,TRUE,Sockets,Dynamic,13.47,0.29,1.000,100.00%
+2,TRUE,Sockets,Dynamic,6.74,0.58,1.999,99.93%
+4,TRUE,Sockets,Dynamic,3.39,1.15,3.973,99.34%
+8,TRUE,Sockets,Dynamic,2.41,1.62,5.589,69.87%
+10,TRUE,Sockets,Dynamic,1.87,2.09,7.203,72.03%
+16,TRUE,Sockets,Dynamic,1.55,2.52,8.690,54.31%
+20,TRUE,Sockets,Dynamic,1.29,3.02,10.442,52.21%
+32,TRUE,Sockets,Dynamic,0.97,4.03,13.887,43.40%
+40,TRUE,Sockets,Dynamic,0.779,5.02,17.291,43.23%
+,,,,,,,
+Threads,Thread Aff.,OMP_Places,Schedule,Time (t),Gflops,SpeedUp,Efficiency
+1,Close,Sockets,Dynamic,14.108044,0.291279,1.000,100.00%
+2,Close,Sockets,Dynamic,7.057652,0.582258,1.999,99.95%
+4,Close,Sockets,Dynamic,3.550106,1.157536,3.974,99.35%
+8,Close,Sockets,Dynamic,1.968971,2.087068,7.165,89.56%
+10,Close,Sockets,Dynamic,1.627685,2.524676,8.668,86.68%
+16,Close,Sockets,Dynamic,1.017714,4.037851,13.862,86.64%
+20,Close,Sockets,Dynamic,0.814506,5.04524,17.321,86.60%
+32,Close,Sockets,Dynamic,0.545275,7.536344,25.873,80.85%
+40,Close,Sockets,Dynamic,0.446774,9.197893,31.578,78.94%
+,,,,,,,
+Threads,Thread Aff.,OMP_Places,Schedule,Time (t),Gflops,SpeedUp,Efficiency
+1,Spread,Sockets,Dynamic,14.107751,0.291285,1.000,100.00%
+2,Spread,Sockets,Dynamic,7.058073,0.582224,1.999,99.94%
+4,Spread,Sockets,Dynamic,3.549414,1.157762,3.975,99.37%
+8,Spread,Sockets,Dynamic,1.969044,2.08699,7.165,89.56%
+10,Spread,Sockets,Dynamic,1.62772,2.524621,8.667,86.67%
+16,Spread,Sockets,Dynamic,1.017707,4.037876,13.862,86.64%
+20,Spread,Sockets,Dynamic,0.814586,5.04474,17.319,86.59%
+32,Spread,Sockets,Dynamic,0.544942,7.540937,25.889,80.90%
+40,Spread,Sockets,Dynamic,0.447039,9.192424,31.558,78.90%
+,,,,,,,
+Threads,Thread Aff.,OMP_Places,Schedule,Time (t),Gflops,SpeedUp,Efficiency
+1,Master,Sockets,Dynamic,14.109068,0.291258,1.000,100.00%
+2,Master,Sockets,Dynamic,7.133965,0.57603,1.978,98.89%
+4,Master,Sockets,Dynamic,3.922664,1.047598,3.597,89.92%
+8,Master,Sockets,Dynamic,2.03418,2.020163,6.936,86.70%
+10,Master,Sockets,Dynamic,1.627505,2.524955,8.669,86.69%
+16,Master,Sockets,Dynamic,1.086759,3.781312,12.983,81.14%
+20,Master,Sockets,Dynamic,0.890533,4.614513,15.843,79.22%
+32,Master,Sockets,Dynamic,0.909875,4.516416,15.507,48.46%
+40,Master,Sockets,Dynamic,0.912313,4.50435,15.465,38.66%
